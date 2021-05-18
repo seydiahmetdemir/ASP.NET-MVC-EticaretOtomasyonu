@@ -1,0 +1,50 @@
+﻿@model EticaretMVC.Models.Login
+@{
+    
+}
+<br /><br />
+      <div class="container pb-5">
+
+          <h2>Kullanıcı Girişi</h2>
+
+
+          @using (Html.BeginForm())
+          {
+              @Html.AntiForgeryToken()//sayfayı çağıran kullanıcı ile sayfayı post eden kullanıcı aynı kişi mi diye bakıyor
+
+              <div class="form-horizontal">
+                  <h4>Product</h4>
+                  <hr />
+                  @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                  <div class="form-group">
+                      @Html.LabelFor(model => model.UserName, htmlAttributes: new { @class = "control-label col-md-2" })
+                      <div class="col-md-10">
+                          @Html.EditorFor(model => model.UserName, new { htmlAttributes = new { @class = "form-control" } })
+                          @Html.ValidationMessageFor(model => model.UserName, "", new { @class = "text-danger" })
+                      </div>
+                  </div>
+
+                  @Html.LabelFor(model => model.Password, htmlAttributes: new { @class = "control-label col-md-2" })
+                  <div class="col-md-10">
+                      @Html.PasswordFor(model => model.Password, new { htmlAttributes = new { @class = "form-control" } })
+
+                      @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
+                  </div>
+              </div>
+
+
+              <div class="form-group">
+                  <div class="col-md-offset-2 col-md-10">
+                      <input type="submit" value="Giriş" class="btn btn-primary" />
+
+                  </div>
+              </div>
+
+          }
+          
+          <p><strong>Rol:</strong> admin ve user   -  <strong>Kullanıcı Adı:</strong> seydiahmetdemir   - <strong>Şifre:</strong>  1234567   </p>
+          <p> <strong>Rol:</strong> user  -  <strong>Kullanıcı Adı:</strong> ramazandemir   -  <strong>Şifre:</strong> 1234567   </p>
+          <p><strong>Rol:</strong> admin   -  <strong>Kullanıcı Adı: </strong> mertdemir   - <strong> Şifre: </strong> 1234567   </p>
+          <br /><br />
+          <p>Dilerseniz de Register sayfasında user seviyesinde kullanıcı oluşturabilirsiniz.</p>
+      </div>

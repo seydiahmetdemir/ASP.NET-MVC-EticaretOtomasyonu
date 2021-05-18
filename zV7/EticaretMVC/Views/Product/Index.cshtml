@@ -1,0 +1,111 @@
+﻿@model IEnumerable<EticaretMVC.Entity.Product>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<br />
+<div class="container pb-5">
+    <h2>Yeni Ürün</h2>
+    <hr />
+    <p>
+        <!--
+    Buton texti:Yeni Kategori
+    metod adı: Create
+    Metoda gönderilecek: null
+    Butona class verdik yani şekil verdik: new { class = "btn btn-primary" }  -->
+        @Html.ActionLink("Yeni Ürün", "Create", null, new { @class = "btn btn-primary" })
+    </p>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Image)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Category.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Stock)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.IsApproved)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IsHome)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    <img src="/Upload/@item.Image" width="70" />
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Category.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                
+                <td>
+                    @Html.DisplayFor(modelItem => item.Price)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Stock)
+                </td>
+                <td>
+                    @if (item.IsApproved == true)
+                    {
+                        <label class="badge badge-success">
+                            <i class="fa fa-check" aria-hidden="true"></i>
+
+                            Onaylandı
+                        </label>
+                    }
+                    else
+                    {
+                        <label class="badge badge-danger">
+                            <i class="fa fa-times" aria-hidden="true"></i>
+                            Onaylanmadı
+                        </label>
+                    }
+                </td>
+                <td>
+                   @if (item.IsHome==true)
+                   {
+                    <label class="badge badge-success">
+                        <i class="fa fa-check" aria-hidden="true"></i>
+
+                        Anasayfada
+                    </label>
+                   }
+                   else
+                   {
+                        <label class="badge badge-danger">
+                            <i class="fa fa-times" aria-hidden="true"></i>
+                            Anasayfada değil
+                        </label>
+                   }
+                </td>
+                <td>
+                    @Html.ActionLink("Güncelle", "Edit", new { id = item.Id },new {@class="btn btn-primary btn-sm"}) 
+                    
+                    @Html.ActionLink("Sil", "Delete", new { id = item.Id }, new { @class = "btn btn-danger btn-sm" })
+                </td>
+            </tr>
+        }
+
+    </table>
+
+
+</div>

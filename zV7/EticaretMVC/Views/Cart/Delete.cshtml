@@ -1,0 +1,58 @@
+﻿@model EticaretMVC.Entity.Cart
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<br />
+<div class="container pb-5">
+    <h3>Ürünü sepetten kaldırmak istediğine emin misin?</h3>
+    <div>
+        <h4>Cart</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.UrunImage)
+            </dt>
+
+            <dd>
+                @*@Html.DisplayFor(model => model.UrunImage)*@
+                <img src="/Upload/@Model.UrunImage" width="70" />
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.UrunName)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.UrunName)
+            </dd>
+
+
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Price)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Price)  TL
+            </dd>
+
+
+
+
+
+
+        </dl>
+
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+
+            <div class="form-actions no-color">
+                <input type="submit" value="Ürünü Sepetimden Kaldır" class="btn btn-default" /> |
+                @Html.ActionLink("Sepete Geri Dön", "Index")
+            </div>
+        }
+    </div>
+</div>

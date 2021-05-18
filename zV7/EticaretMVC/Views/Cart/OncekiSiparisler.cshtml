@@ -1,0 +1,102 @@
+﻿@model IEnumerable<EticaretMVC.Entity.Cart>
+@{
+    ViewBag.Title = "OncekiSiparisler";
+    string tel;
+    string adres;
+    List<int> AynilarId = new List<int>();
+}
+
+
+
+
+
+
+
+<br />
+<div class="container pb-5">
+    <h2>OncekiSiparisler</h2><br />
+    
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.UrunImage)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.UrunName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.kargoyaverildimi)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Tel)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Address)
+            </th>
+
+
+
+            <th>
+                @Html.DisplayNameFor(model => model.DateTime)
+            </th>
+
+            
+        </tr>
+        @foreach (var item in Model)
+        {
+            adres = item.Address;
+            tel = item.Tel;
+            if (adres == item.Address && tel == item.Tel)
+            {
+                <tr>
+                    <td>
+                        @*@Html.DisplayFor(modelItem => item.UrunImage)*@
+                        <img src="/Upload/@item.UrunImage" width="70" />
+                    </td>
+                    <td>
+                        @*@Html.DisplayFor(modelItem => item.UrunName)*@
+                        <a href="/Home/Details/@item.UrunId"> @item.UrunName </a>
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Price) TL
+                    </td>
+                    <td>
+                        @if (item.kargoyaverildimi == false)
+                        {
+                            <i class="fa fa-times" aria-hidden="true"></i>
+
+                        }
+                        else
+                        {
+                            <i class="fa fa-check" aria-hidden="true"></i>
+                        }
+                        @*@Html.DisplayFor(modelItem => item.kargoyaverildimi)*@
+                    </td>
+
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Tel)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Address)
+                    </td>
+
+
+
+                    <td>
+                        @Html.DisplayFor(modelItem => item.DateTime)
+                    </td>
+                    
+                </tr>
+            }
+        }
+
+
+
+
+
+    </table>
+</div>

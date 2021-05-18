@@ -1,0 +1,176 @@
+﻿@model IEnumerable<EticaretMVC.Entity.Cart>
+
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+@{
+    ViewBag.Title = "Index";
+    int toplam = 0;
+    foreach (var item in Model)
+    {
+        toplam += item.Price;
+    }
+
+
+
+
+
+
+
+
+}
+@{ //ÜRÜNLERİN ADLARINI TEKRARSIZ BİR ŞEKİLDE TUTTUK  //ürün fiyatlarını da tekrarsız bir şekilde tuttuk
+    List<string> KullaniciAdlari = new List<string>();
+
+
+    string Kullanici = "";
+
+    foreach (var item in Model)
+    {
+
+        if (item.UserName != Kullanici)
+        {
+
+
+
+
+            KullaniciAdlari.Add(item.UserName);
+
+
+
+
+        }
+        Kullanici = item.UserName;
+
+    }
+}
+
+<br />
+
+<div class="container pb-5">
+    <h2>Kargolanmış Siparişler</h2>
+    <table class="table table-dark table-hover">
+
+        @foreach (var ad in KullaniciAdlari)
+        {
+            <!--isim başlığı-->
+            <tr bgcolor="green ">
+                <td>
+                    @ad
+                </td>
+
+
+                <td>
+                </td>
+                <td>
+                </td>
+                <td>
+                </td>
+
+                <td>
+                </td>
+
+
+                <td>
+                </td>
+                <td>
+                </td>
+                
+
+            </tr>
+            <tr>
+
+                <th>
+                    @Html.DisplayNameFor(model => model.Tel)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Address)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.DateTime)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.UrunImage)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.UrunName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Price)
+                </th>
+
+                <th>
+                    @Html.DisplayNameFor(model => model.kargoyaverildimi)
+                </th>
+                
+
+            </tr>
+
+            foreach (var item in Model)
+            {
+                if (item.UserName == ad)
+                {
+
+                    <tr>
+
+
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Tel)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Address)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.DateTime)
+                        </td>
+                        <td>
+                            @*@Html.DisplayFor(modelItem => item.UrunImage)*@
+                            <img src="/Upload/@item.UrunImage" width="70" />
+                        </td>
+
+                        <td>
+                            @Html.DisplayFor(modelItem => item.UrunName)
+                        </td>
+
+
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Price)
+
+
+                        </td>
+                        <td>
+
+                            @if (item.kargoyaverildimi == false)
+                            {
+                                <i class="fa fa-times" aria-hidden="true"></i>
+
+                            }
+                            else
+                            {
+                                <i class="fa fa-check" aria-hidden="true"></i>
+                            }
+                        </td>
+                        
+
+                    </tr>
+
+                }
+            }
+
+
+
+        }
+
+    </table>
+
+</div>
+
+
+
+
+
+
+
+
+

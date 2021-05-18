@@ -1,0 +1,77 @@
+﻿
+@*<form class="form-inline mt-2 mt-md-0">
+    <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
+    <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+</form>*@ 
+
+
+
+<ul class="navbar-nav my-2 my-lg-0  ">
+
+    @if (Request.IsAuthenticated) //kullanıcı login olmuşsa
+    {
+        //kulllanıcı adını ve logout linklerini çıkar
+        <li class="nav-item active">
+            <a class="nav-link" href="/Cart/Index">Sepet</a>
+        </li>
+        <li class="nav-item active">
+            <a class="nav-link" href="/Cart/OncekiSiparisler">Onceki Siparişler</a>
+        </li>
+        
+        <li class="nav-item active">
+            <a class="nav-link">
+
+                @if (User.IsInRole("user") && User.IsInRole("admin"))
+                {
+                    string userrol = "-admin ve user";
+                    @User.Identity.Name
+                    @userrol
+
+
+                }
+                else if (User.IsInRole("user"))
+                {
+                    string userrol = "-user";
+
+                    @User.Identity.Name
+
+
+                    @userrol
+                }
+                else if (User.IsInRole("admin"))
+                {
+                    string userrol = "-admin";
+
+                    @User.Identity.Name
+
+
+                    @userrol
+
+                }
+
+
+            </a> <!--kullanıcı adı gözüksün nevbar'da-->
+        </li>
+
+        <li class="nav-item active">
+            <a class="nav-link" href="/Account/Logout">Logout</a>
+        </li>
+
+
+    }
+    else //login olmamışsa
+    {
+        //login ve register linklerini çıkar
+        <li class="nav-item active">
+            <a class="nav-link" href="/Account/Login">Login</a>
+        </li>
+
+        <li class="nav-item active">
+            <a class="nav-link" href="/Account/Register">Register</a>
+        </li>
+    }
+
+
+
+
+</ul>

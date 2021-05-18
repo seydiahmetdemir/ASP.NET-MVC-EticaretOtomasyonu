@@ -1,0 +1,98 @@
+﻿@model EticaretMVC.Entity.Cart
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Cart</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.UserId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UserId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UrunId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UrunId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Price)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Price)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UrunName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UrunName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UserName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UserName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Tel)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Tel)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Address)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Address)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.odendimi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.odendimi)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.kargoyaverildimi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.kargoyaverildimi)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UrunImage)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UrunImage)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

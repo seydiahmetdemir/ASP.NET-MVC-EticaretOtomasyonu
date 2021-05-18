@@ -1,0 +1,591 @@
+﻿@using EticaretMVC.Models;
+@model UrunVeYorumModel
+
+<!-- ürünler tablosundan liste değil de tek bir kayıt geldiği için     model Product şeklinde tanımlama yaptık
+-->
+@{
+    ViewBag.Title = "Details";
+    int urunid = ViewBag.Urununid;
+    string image = "";
+    string name = "";
+    int stock = 0;
+    string description = "";
+    double price = 0;
+    int DegerlendirmeSayisi = Model.Yorumlar.Where(i => i.ProductId == urunid).Count();
+    int ToplamYildizSayisi = 0;
+}
+@foreach (var item in Model.Yorumlar)
+{
+    if (item.ProductId == urunid)
+    {
+        ToplamYildizSayisi = ToplamYildizSayisi + item.UrunPuan;
+    }
+
+}
+@foreach (var item in Model.Urunler)
+{
+    if (item.Id == urunid)
+    {
+        image = item.Image;
+        name = item.Name;
+        stock = item.Stock;
+        description = item.Description;
+        price = item.Price;
+    }
+}
+@{
+    int puan = 0;
+    if (ToplamYildizSayisi != 0 && DegerlendirmeSayisi != 0)
+    {
+        puan = ToplamYildizSayisi / DegerlendirmeSayisi;
+    }
+
+}
+<div class="p-5">
+    <div class="row mb-5">
+        <div class="col-md-6">
+            <img src="~/Upload/@image" class="img-responsive w-50 float-right">
+        </div>
+
+        <div class="col-md-6">
+            <div class="row">
+                <div class="col-md-12">
+                    <h1>@name</h1>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    @if (stock != 0)
+                    {
+                        <span class="badge badge-primary">Stokta</span><br />
+                        <span> Stok adedi: @stock</span>
+                    }
+                    else
+                    {
+                        <span class="badge badge-danger">Stokta Yok</span>
+
+                    }
+
+
+                </div>
+            </div>
+            <div class="row mt-1">
+                <div class="col-md-12">
+                    <div id="description">
+                        <br>
+                        @description
+                    </div>
+                </div>
+            </div>
+
+            <div class="row mt-1">
+                <div class="col-md-4">
+                    @if (DegerlendirmeSayisi != 0)
+                    {
+                        if (ToplamYildizSayisi / DegerlendirmeSayisi <= 1)
+                        {
+                            <i class="fa fa-star"></i><!--dolu-->
+                            <i class="far fa-star"></i><!--boş-->
+                            <i class="far fa-star"></i><!--boş-->
+                            <i class="far fa-star"></i><!--boş-->
+                            <i class="far fa-star"></i><!--boş-->
+                        }
+                        else if (ToplamYildizSayisi / DegerlendirmeSayisi <= 2)
+                        {
+                            <i class="fa fa-star"></i><!--dolu-->
+                            <i class="fa fa-star"></i><!--dolu-->
+                            <i class="far fa-star"></i><!--boş-->
+                            <i class="far fa-star"></i><!--boş-->
+                            <i class="far fa-star"></i><!--boş-->
+
+                        }
+                        else if (ToplamYildizSayisi / DegerlendirmeSayisi <= 3)
+                        {
+                            <i class="fa fa-star"></i><!--dolu-->
+                            <i class="fa fa-star"></i><!--dolu-->
+                            <i class="fa fa-star"></i><!--dolu-->
+                            <i class="far fa-star"></i><!--boş-->
+                            <i class="far fa-star"></i><!--boş-->
+
+                        }
+                        else if (ToplamYildizSayisi / DegerlendirmeSayisi <= 4)
+                        {
+                            <i class="fa fa-star"></i><!--dolu-->
+                            <i class="fa fa-star"></i><!--dolu-->
+                            <i class="fa fa-star"></i><!--dolu-->
+                            <i class="fa fa-star"></i><!--dolu-->
+                            <i class="far fa-star"></i><!--boş-->
+
+                        }
+                        else if (ToplamYildizSayisi / DegerlendirmeSayisi <= 5)
+                        {
+                            <i class="fa fa-star"></i><!--dolu-->
+                            <i class="fa fa-star"></i><!--dolu-->
+                            <i class="fa fa-star"></i><!--dolu-->
+                            <i class="fa fa-star"></i><!--dolu-->
+                            <i class="fa fa-star"></i><!--dolu-->
+                        }
+                    }
+
+
+
+                    @if (puan != 0)
+                    {
+                        <span class="badge badge-success">
+                            @puan
+                        </span>
+                    }
+
+
+                    <p>(@DegerlendirmeSayisi  Değerlendirme)</p>
+
+                </div>
+                <div id="write-review" class="col-md-4">
+
+                </div>
+            </div>
+            <div class="row mt-1">
+                <div class="col-md-12">
+                    <h4 id="product-price">@price  TL</h4>
+
+                </div>
+            </div>
+            <div class="row mt-1">
+                <div class="col-md-12">
+
+                    @*<button class="btn btn-success">
+                            <i class="fa fa-cart-plus" aria-hidden="true"></i>
+                            Add To Card
+                        </button>*@
+                    @if (stock != 0)
+                    {
+
+
+
+                        if (User.Identity.IsAuthenticated == true)
+                        {
+                            using (Html.BeginForm("SepeteEkle", "Cart", FormMethod.Post))
+                            {
+                                @Html.AntiForgeryToken()
+                                @*@Html.ActionLink("Sepete Ekle", "SepeteEkle", new { UrunIdd = urun.Id }, new { @class = "btn btn-success" })*@
+                                @*@Html.ActionLink();*@
+                                <input type="hidden" id="UrunIdd" name="UrunIdd" value="@urunid" required>
+                                <button type="submit" class="btn btn-success  ">
+                                    <i class="fa fa-cart-plus" aria-hidden="true"></i>
+                                    Sepete Ekle
+                                </button>
+                            }
+                        }
+                        else
+                        {
+                            <a href="/Account/Login" class="btn btn-success btn-sm ">
+                                <i class="fa fa-cart-plus" aria-hidden="true"></i>
+                                Sepete Ekle
+                            </a>
+                        }
+
+                    }
+
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+    <div class="bd-example bd-example-tabs">
+        <ul class="nav nav-tabs" id="myTab" role="tablist">
+            <li class="nav-item" role="presentation">
+                <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true">Yorumlar</a>
+            </li>
+            <li class="nav-item" role="presentation">
+                <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="false">Taksit Seçenekleri</a>
+            </li>
+            <li class="nav-item" role="presentation">
+                <a class="nav-link" id="contact-tab" data-toggle="tab" href="#contact" role="tab" aria-controls="contact" aria-selected="false">İade Koşulları </a>
+            </li>
+        </ul>
+        <div class="tab-content" id="myTabContent">
+            <div class="tab-pane fade active show" id="home" role="tabpanel" aria-labelledby="home-tab">
+                <!--Yorum yap-->
+                <div class="row">
+                    <div class="col-md-2 ">
+                    </div>
+                    <div class="col-md-8 ">
+
+                        <div class="col-md-4 ">
+
+                            <div class="carddd">
+
+                                <div class="row">
+
+                                    <div class="col-12">
+
+                                        <div class="comment-box ml-2">
+
+                                            @{
+                                                if (User.Identity.IsAuthenticated == true)
+                                                {
+
+                                                    if (User.IsInRole("user"))
+                                                    {
+                                                        //kullanıcı daha önce yorum yapmuşsa birdaha yorum yapamasın o ürün için
+                                                        int adet = 0;
+                                                        foreach (var item in Model.Yorumlar)
+                                                        {
+                                                            if (item.UserName == User.Identity.Name && item.ProductId == urunid)
+                                                            {
+                                                                adet++;
+                                                            }
+                                                        }
+                                                        if (adet == 0)
+                                                        {
+                                                            using (Html.BeginForm("Yorumm", "Home", FormMethod.Post))
+                                                            {
+                                                                @Html.AntiForgeryToken()
+
+                                                                <input type="hidden" id="urunid" name="urunid" value="@urunid" required>
+
+
+                                                                <div class="rating"> <input type="radio" name="rating" value="5" id="5" required><label for="5">☆</label> <input type="radio" name="rating" value="4" id="4"><label for="4">☆</label> <input type="radio" name="rating" value="3" id="3"><label for="3">☆</label> <input type="radio" name="rating" value="2" id="2"><label for="2">☆</label> <input type="radio" name="rating" value="1" id="1"><label for="1">☆</label> </div>
+                                                                <div class="comment-area"> <textarea placeholder="Puan verip yorum yapabilirsiniz." rows="3" cols="100" style="resize: none;" id="yazi" name="yazi" required></textarea> </div>
+                                                                <div class="comment-btns mt-2">
+
+                                                                    <div class="pull-left"> <button type="submit" class="btn btn-success">Yorum Yap</button> </div>
+
+                                                                </div>
+
+                                                            }
+                                                        }
+                                                    }
+                                                    else 
+                                                    {
+                                                        <p>Admin seviyesindeki kullanıcılar yorum yapamazlar.</p>
+                                                    }
+
+
+
+
+
+
+
+
+
+
+
+                                                }
+                                                else
+                                                {
+                                                    <input type="hidden" id="urunid" name="urunid" value="@urunid" required>
+
+                                                    <div class="rating"> <input type="radio" name="rating" value="5" id="5" required><label for="5">☆</label> <input type="radio" name="rating" value="4" id="4"><label for="4">☆</label> <input type="radio" name="rating" value="3" id="3"><label for="3">☆</label> <input type="radio" name="rating" value="2" id="2"><label for="2">☆</label> <input type="radio" name="rating" value="1" id="1"><label for="1">☆</label> </div>
+                                                    <div class="comment-area"> <textarea placeholder="Puan verip yorum yapabilirsiniz." rows="3" cols="100" style="resize: none;" id="yazi" name="yazi" required></textarea> </div>
+                                                    <div class="comment-btns mt-2">
+
+                                                        <div class="pull-left"> <a href="/Account/Login" class="btn btn-success  "> Yorum Yap</a> </div>
+
+                                                    </div>
+                                                }
+
+                                            }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-2 ">
+                    </div>
+                </div>
+
+
+                <div class="row">
+
+
+
+                    <!--Yorumların bulunduğu kısım-->
+                    <div class="container ">
+                        <div class="row d-flex justify-content-center">
+                            <div class="col-md-8">
+                                <div class="headings d-flex justify-content-between align-items-center mb-3">
+                                    <h5>Değerlendirme Sayısı(@DegerlendirmeSayisi)</h5>
+
+                                </div>
+                                @foreach (var item in Model.Yorumlar.OrderByDescending(i => i.Tarih))
+                                {
+                                    if (item.ProductId == urunid)
+                                    {
+                                        <div class="card p-3 mt-2">
+                                            <div class="d-flex justify-content-between align-items-center">
+                                                <div class="user d-flex flex-row align-items-center">
+                                                    <img src="~/Upload/images.png" width="30" class="user-img rounded-circle mr-2"> <span>
+                                                        <small class="font-weight-bold text-primary">@item.UserName</small>
+
+
+                                                        @if (item.UrunPuan == 1)
+                                                        {
+                                                            <i class="fa fa-star"></i><!--dolu-->
+                                                            <i class="far fa-star"></i><!--boş-->
+                                                            <i class="far fa-star"></i><!--boş-->
+                                                            <i class="far fa-star"></i><!--boş-->
+                                                            <i class="far fa-star"></i><!--boş-->
+                                                        }
+                                                        else if (item.UrunPuan == 2)
+                                                        {
+                                                            <i class="fa fa-star"></i><!--dolu-->
+                                                            <i class="fa fa-star"></i><!--dolu-->
+                                                            <i class="far fa-star"></i><!--boş-->
+                                                            <i class="far fa-star"></i><!--boş-->
+                                                            <i class="far fa-star"></i><!--boş-->
+
+                                                        }
+                                                        else if (item.UrunPuan == 3)
+                                                        {
+                                                            <i class="fa fa-star"></i><!--dolu-->
+                                                            <i class="fa fa-star"></i><!--dolu-->
+                                                            <i class="fa fa-star"></i><!--dolu-->
+                                                            <i class="far fa-star"></i><!--boş-->
+                                                            <i class="far fa-star"></i><!--boş-->
+
+                                                        }
+                                                        else if (item.UrunPuan == 4)
+                                                        {
+                                                            <i class="fa fa-star"></i><!--dolu-->
+                                                            <i class="fa fa-star"></i><!--dolu-->
+                                                            <i class="fa fa-star"></i><!--dolu-->
+                                                            <i class="fa fa-star"></i><!--dolu-->
+                                                            <i class="far fa-star"></i><!--boş-->
+
+                                                        }
+                                                        else if (item.UrunPuan == 5)
+                                                        {
+                                                            <i class="fa fa-star"></i><!--dolu-->
+                                                            <i class="fa fa-star"></i><!--dolu-->
+                                                            <i class="fa fa-star"></i><!--dolu-->
+                                                            <i class="fa fa-star"></i><!--dolu-->
+                                                            <i class="fa fa-star"></i><!--dolu-->
+                                                        }
+
+
+
+                                                    </span>
+                                                </div> <small>@item.Tarih</small>
+
+                                            </div>
+                                            <div class="action d-flex justify-content-between mt-2 align-items-center">
+                                                <p>@item.Yorumlar</p>
+                                                <div class="icons align-items-center"> <i class="fa fa-check-circle-o check-icon text-primary"></i> </div>
+                                            </div>
+                                        </div>
+                                    }
+
+                                }
+
+
+
+
+
+                            </div>
+                        </div>
+                    </div>
+
+
+                </div>
+            </div>
+            <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
+
+
+
+
+
+                <div class="row">
+                    <div class="col-md-4">
+                        <table class="table">
+                            <tr>
+                                <td><strong>A BANKASI</strong></td>
+                                <td>Aylık Ödeme</td>
+                                <td>Toplam Ödenecek</td>
+
+                            </tr>
+                            <tr>
+                                <td>3 Taksit</td>
+                                @{double fiyat = price * 1.05; double aylik = Convert.ToDouble(fiyat / 3); fiyat = Math.Round(fiyat, 2); aylik = Math.Round(aylik, 2);}
+                                <td>@aylik</td>
+                                <td> @fiyat</td>
+
+                            </tr>
+                            <tr>
+                                <td>4 Taksit</td>
+                                @{ fiyat = price * 1.06; aylik = Convert.ToDouble(fiyat / 4); fiyat = Math.Round(fiyat, 2); aylik = Math.Round(aylik, 2);}
+                                <td>@aylik</td>
+                                <td> @fiyat</td>
+
+                            </tr>
+                            <tr>
+                                <td>6 Taksit</td>
+                                @{ fiyat = price * 1.07; aylik = Convert.ToDouble(fiyat / 6); fiyat = Math.Round(fiyat, 2); aylik = Math.Round(aylik, 2);}
+                                <td>@aylik</td>
+                                <td> @fiyat</td>
+
+                            </tr>
+
+                        </table>
+
+
+
+                    </div>
+                    <div class="col-md-4">
+
+                        <table class="table">
+                            <tr>
+                                <td><strong>B BANKASI</strong></td>
+                                <td>Aylık Ödeme</td>
+                                <td>Toplam Ödenecek</td>
+
+                            </tr>
+                            <tr>
+                                <td>3 Taksit</td>
+                                @{ fiyat = price * 1.08; aylik = Convert.ToDouble(fiyat / 3); fiyat = Math.Round(fiyat, 2); aylik = Math.Round(aylik, 2); }
+                                <td>@aylik</td>
+                                <td> @fiyat</td>
+
+                            </tr>
+                            <tr>
+                                <td>4 Taksit</td>
+                                @{ fiyat = price * 1.09; aylik = Convert.ToDouble(fiyat / 4); fiyat = Math.Round(fiyat, 2); aylik = Math.Round(aylik, 2);}
+                                <td>@aylik</td>
+                                <td> @fiyat</td>
+
+                            </tr>
+                            <tr>
+                                <td>6 Taksit</td>
+                                @{ fiyat = price * 1.10; aylik = Convert.ToDouble(fiyat / 6); fiyat = Math.Round(fiyat, 2); aylik = Math.Round(aylik, 2);}
+                                <td>@aylik</td>
+                                <td> @fiyat</td>
+
+                            </tr>
+
+                        </table>
+
+
+
+                    </div>
+                    <div class="col-md-4">
+
+                        <table class="table">
+                            <tr>
+                                <td><strong>C BANKASI</strong></td>
+                                <td>Aylık Ödeme</td>
+                                <td>Toplam Ödenecek</td>
+
+                            </tr>
+                            <tr>
+                                <td>3 Taksit</td>
+                                @{ fiyat = price * 1.07; aylik = Convert.ToDouble(fiyat / 3); fiyat = Math.Round(fiyat, 2); aylik = Math.Round(aylik, 2);}
+                                <td>@aylik</td>
+                                <td> @fiyat</td>
+
+                            </tr>
+                            <tr>
+                                <td>4 Taksit</td>
+                                @{ fiyat = price * 1.10; aylik = Convert.ToDouble(fiyat / 4); fiyat = Math.Round(fiyat, 2); aylik = Math.Round(aylik, 2);}
+                                <td>@aylik</td>
+                                <td> @fiyat</td>
+
+                            </tr>
+                            <tr>
+                                <td>6 Taksit</td>
+                                @{ fiyat = price * 1.11; aylik = Convert.ToDouble(fiyat / 6); fiyat = Math.Round(fiyat, 2); aylik = Math.Round(aylik, 2);}
+                                <td>@aylik</td>
+                                <td> @fiyat</td>
+
+                            </tr>
+
+                        </table>
+
+
+
+                    </div>
+
+                </div>
+
+
+
+
+
+
+
+
+            </div>
+            <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">
+
+
+                <p>İade işlemlerinizi aşağıdaki şekilde yapmalısınız:</p>
+                <ul>
+                    <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.                     </li>
+                    <li> Praesent ornare arcu non sagittis pulvinar.      </li>
+                    <li>Praesent non est tempus, eleifend arcu vitae, euismod neque.         </li>
+                    <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.                     </li>
+                    <li> Praesent ornare arcu non sagittis pulvinar.      </li>
+                    <li>Praesent non est tempus, eleifend arcu vitae, euismod neque.         </li>
+                    <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.                     </li>
+                    <li> Praesent ornare arcu non sagittis pulvinar.      </li>
+                    <li>Praesent non est tempus, eleifend arcu vitae, euismod neque.         </li>
+                    <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.                     </li>
+                    <li> Praesent ornare arcu non sagittis pulvinar.      </li>
+                    <li>Praesent non est tempus, eleifend arcu vitae, euismod neque.         </li>
+                    <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.                     </li>
+                    <li> Praesent ornare arcu non sagittis pulvinar.      </li>
+                    <li>Praesent non est tempus, eleifend arcu vitae, euismod neque.         </li>
+                    <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.                     </li>
+                    <li> Praesent ornare arcu non sagittis pulvinar.      </li>
+                    <li>Praesent non est tempus, eleifend arcu vitae, euismod neque.         </li>
+                </ul>
+
+
+
+
+
+            </div>
+        </div>
+    </div>
+
+
+
+</div>
+
+

@@ -1,0 +1,871 @@
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\EticaretMVC.dll.config
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\EticaretMVC.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\EticaretMVC.pdb
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\csc.exe
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\csc.exe.config
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\csc.rsp
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\csi.exe
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\csi.exe.config
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\csi.rsp
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\System.AppContext.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\System.Console.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\System.Net.Http.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\vbc.exe
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\vbc.exe.config
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\vbc.rsp
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\System.Web.Helpers.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\System.Web.Mvc.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\System.Web.Razor.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\System.Web.Webpages.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\System.Web.Razor.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\System.Web.Webpages.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\System.Web.Helpers.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\System.Web.Mvc.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\obj\Debug\EticaretMVC.csprojAssemblyReference.cache
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\obj\Debug\EticaretMVC.csproj.CoreCompileInputs.cache
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\obj\Debug\EticaretMVC.csproj.CopyComplete
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\obj\Debug\EticaretMVC.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\obj\Debug\EticaretMVC.pdb
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\EntityFramework.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\EntityFramework.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\Microsoft.Owin.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\Newtonsoft.Json.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\Owin.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\Microsoft.Owin.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\Newtonsoft.Json.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\EticaretMVC.dll.config
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\EticaretMVC.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\EticaretMVC.pdb
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\csc.exe
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\csc.exe.config
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\csc.rsp
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\csi.exe
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\csi.exe.config
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\csi.rsp
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\System.AppContext.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\System.Console.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\System.Net.Http.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\vbc.exe
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\vbc.exe.config
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\vbc.rsp
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\EntityFramework.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\Microsoft.Owin.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\Newtonsoft.Json.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\Owin.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\System.Web.Helpers.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\System.Web.Mvc.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\System.Web.Razor.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\System.Web.Webpages.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\EntityFramework.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\Microsoft.Owin.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\Newtonsoft.Json.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\System.Web.Razor.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\System.Web.Webpages.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\System.Web.Helpers.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\System.Web.Mvc.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\obj\Debug\EticaretMVC.csprojAssemblyReference.cache
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\obj\Debug\EticaretMVC.csproj.CoreCompileInputs.cache
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\obj\Debug\EticaretMVC.csproj.CopyComplete
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\obj\Debug\EticaretMVC.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\ders5 bitti\EticaretMVC\SeydiAhmetDemir191103034\EticaretMVC\obj\Debug\EticaretMVC.pdb
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\EticaretMVC.dll.config
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\EticaretMVC.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\EticaretMVC.pdb
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\roslyn\csc.exe
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\roslyn\csc.exe.config
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\roslyn\csc.rsp
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\roslyn\csi.exe
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\roslyn\csi.exe.config
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\roslyn\csi.rsp
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\roslyn\System.AppContext.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\roslyn\System.Console.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\roslyn\System.Net.Http.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\roslyn\vbc.exe
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\roslyn\vbc.exe.config
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\roslyn\vbc.rsp
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\EntityFramework.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\Microsoft.Owin.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\Newtonsoft.Json.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\Owin.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\System.Web.Helpers.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\System.Web.Mvc.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\System.Web.Razor.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\System.Web.Webpages.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\EntityFramework.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\Microsoft.Owin.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\Newtonsoft.Json.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\System.Web.Razor.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\System.Web.Webpages.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\System.Web.Helpers.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\System.Web.Mvc.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\obj\Debug\EticaretMVC.csprojAssemblyReference.cache
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\obj\Debug\EticaretMVC.csproj.CoreCompileInputs.cache
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\obj\Debug\EticaretMVC.csproj.CopyComplete
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\obj\Debug\EticaretMVC.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV4\EticaretMVC\obj\Debug\EticaretMVC.pdb
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\EticaretMVC.dll.config
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\EticaretMVC.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\EticaretMVC.pdb
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\csc.exe
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\csc.exe.config
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\csc.rsp
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\csi.exe
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\csi.exe.config
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\csi.rsp
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.AppContext.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.Console.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.Net.Http.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\vbc.exe
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\vbc.exe.config
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\vbc.rsp
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\EntityFramework.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\Microsoft.Owin.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\Newtonsoft.Json.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\Owin.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\System.Web.Helpers.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\System.Web.Mvc.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\System.Web.Razor.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\System.Web.Webpages.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\EntityFramework.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\Microsoft.Owin.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\Newtonsoft.Json.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\System.Web.Razor.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\System.Web.Webpages.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\System.Web.Helpers.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\System.Web.Mvc.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\obj\Debug\EticaretMVC.csprojAssemblyReference.cache
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\obj\Debug\EticaretMVC.csproj.CoreCompileInputs.cache
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\obj\Debug\EticaretMVC.csproj.CopyComplete
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\obj\Debug\EticaretMVC.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV4 bundan devam geliştirmeye\EticaretMVC\obj\Debug\EticaretMVC.pdb
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\EticaretMVC.dll.config
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\EticaretMVC.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\EticaretMVC.pdb
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\csc.exe
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\csc.exe.config
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\csc.rsp
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\csi.exe
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\csi.exe.config
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\csi.rsp
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.AppContext.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.Console.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.Net.Http.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\vbc.exe
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\vbc.exe.config
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\vbc.rsp
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\EntityFramework.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\Microsoft.Owin.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\Newtonsoft.Json.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\Owin.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\System.Web.Helpers.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\System.Web.Mvc.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\System.Web.Razor.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\System.Web.Webpages.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\EntityFramework.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\Microsoft.Owin.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\Newtonsoft.Json.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\System.Web.Razor.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\System.Web.Webpages.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\System.Web.Helpers.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\System.Web.Mvc.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\obj\Debug\EticaretMVC.csprojAssemblyReference.cache
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\obj\Debug\EticaretMVC.csproj.CoreCompileInputs.cache
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\obj\Debug\EticaretMVC.csproj.CopyComplete
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\obj\Debug\EticaretMVC.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV5 bundan devam geliştirmeye\EticaretMVC\obj\Debug\EticaretMVC.pdb
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\EticaretMVC.dll.config
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\EticaretMVC.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\EticaretMVC.pdb
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\csc.exe
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\csc.exe.config
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\csc.rsp
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\csi.exe
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\csi.exe.config
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\csi.rsp
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.AppContext.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.Console.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.Net.Http.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\vbc.exe
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\vbc.exe.config
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\vbc.rsp
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\EntityFramework.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\Microsoft.Owin.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\Newtonsoft.Json.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\Owin.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\PagedList.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\PagedList.Mvc.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\System.Web.Helpers.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\System.Web.Mvc.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\System.Web.Razor.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\System.Web.Webpages.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\EntityFramework.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\Microsoft.Owin.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\Newtonsoft.Json.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\PagedList.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\PagedList.Mvc.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\System.Web.Razor.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\System.Web.Webpages.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\System.Web.Helpers.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\System.Web.Mvc.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\obj\Debug\EticaretMVC.csprojAssemblyReference.cache
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\obj\Debug\EticaretMVC.csproj.CoreCompileInputs.cache
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\obj\Debug\EticaretMVC.csproj.CopyComplete
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\obj\Debug\EticaretMVC.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV5 bundan devam geliştirmeye\EticaretMVC\obj\Debug\EticaretMVC.pdb
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\EticaretMVC.dll.config
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\EticaretMVC.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\EticaretMVC.pdb
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\roslyn\csc.exe
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\roslyn\csc.exe.config
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\roslyn\csc.rsp
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\roslyn\csi.exe
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\roslyn\csi.exe.config
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\roslyn\csi.rsp
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\roslyn\System.AppContext.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\roslyn\System.Console.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\roslyn\System.Net.Http.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\roslyn\vbc.exe
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\roslyn\vbc.exe.config
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\roslyn\vbc.rsp
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\EntityFramework.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\Microsoft.Owin.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\Newtonsoft.Json.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\Owin.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\PagedList.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\PagedList.Mvc.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\System.Web.Helpers.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\System.Web.Mvc.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\System.Web.Razor.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\System.Web.Webpages.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\EntityFramework.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\Microsoft.Owin.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\Newtonsoft.Json.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\PagedList.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\PagedList.Mvc.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\System.Web.Razor.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\System.Web.Webpages.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\System.Web.Helpers.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\System.Web.Mvc.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\obj\Debug\EticaretMVC.csprojAssemblyReference.cache
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\obj\Debug\EticaretMVC.csproj.CoreCompileInputs.cache
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\obj\Debug\EticaretMVC.csproj.CopyComplete
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\obj\Debug\EticaretMVC.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\yedekler\zV7\EticaretMVC\obj\Debug\EticaretMVC.pdb
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\EticaretMVC.dll.config
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\EticaretMVC.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\EticaretMVC.pdb
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\roslyn\csc.exe
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\roslyn\csc.exe.config
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\roslyn\csc.rsp
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\roslyn\csi.exe
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\roslyn\csi.exe.config
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\roslyn\csi.rsp
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\roslyn\System.AppContext.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\roslyn\System.Console.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\roslyn\System.Net.Http.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\roslyn\vbc.exe
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\roslyn\vbc.exe.config
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\roslyn\vbc.rsp
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\EntityFramework.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\Microsoft.Owin.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\Newtonsoft.Json.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\Owin.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\PagedList.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\PagedList.Mvc.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\System.Web.Helpers.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\System.Web.Mvc.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\System.Web.Razor.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\System.Web.Webpages.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\EntityFramework.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\Microsoft.Owin.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\Newtonsoft.Json.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\PagedList.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\PagedList.Mvc.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\System.Web.Razor.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\System.Web.Webpages.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\System.Web.Helpers.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\System.Web.Mvc.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\obj\Debug\EticaretMVC.csprojAssemblyReference.cache
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\obj\Debug\EticaretMVC.csproj.CoreCompileInputs.cache
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\obj\Debug\EticaretMVC.csproj.CopyComplete
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\obj\Debug\EticaretMVC.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\Eticaret\zV7\EticaretMVC\obj\Debug\EticaretMVC.pdb
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\EticaretMVC.dll.config
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\EticaretMVC.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\EticaretMVC.pdb
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\roslyn\csc.exe
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\roslyn\csc.exe.config
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\roslyn\csc.rsp
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\roslyn\csi.exe
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\roslyn\csi.exe.config
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\roslyn\csi.rsp
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\roslyn\System.AppContext.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\roslyn\System.Console.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\roslyn\System.Net.Http.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\roslyn\vbc.exe
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\roslyn\vbc.exe.config
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\roslyn\vbc.rsp
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\EntityFramework.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\Microsoft.Owin.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\Newtonsoft.Json.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\Owin.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\PagedList.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\PagedList.Mvc.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\System.Web.Helpers.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\System.Web.Mvc.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\System.Web.Razor.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\System.Web.Webpages.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\EntityFramework.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\Microsoft.Owin.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\Newtonsoft.Json.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\PagedList.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\PagedList.Mvc.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\System.Web.Razor.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\System.Web.Webpages.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\System.Web.Helpers.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\System.Web.Mvc.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\obj\Debug\EticaretMVC.csprojAssemblyReference.cache
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\obj\Debug\EticaretMVC.csproj.CoreCompileInputs.cache
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\obj\Debug\EticaretMVC.csproj.CopyComplete
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\obj\Debug\EticaretMVC.dll
+C:\Users\Seydi Ahmet DEMİR\Desktop\internet prog2(husrev)\eticaret sitesi\Eticaret\zV7\EticaretMVC\obj\Debug\EticaretMVC.pdb

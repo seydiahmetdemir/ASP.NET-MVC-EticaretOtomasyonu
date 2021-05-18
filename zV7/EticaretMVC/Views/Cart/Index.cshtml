@@ -1,0 +1,227 @@
+﻿@model IEnumerable<EticaretMVC.Entity.Cart>
+
+@{
+    ViewBag.Title = "Index";
+    int toplam = 0;
+    foreach (var item in Model)
+    {
+        toplam += item.Price;
+    }
+}
+
+<br />
+
+
+
+<div class="container pb-5">
+
+    <h2>Sepetim</h2>
+
+
+
+    @if (toplam == 0)
+    {
+
+        <div class="row">
+            <div class="col-md-4 mb-3">
+
+            </div>
+            <div class="col-md-4 mb-3">
+                <h1 style="text-align:center;">SEPET BOŞ</h1>
+                <img src="~/Upload/BosSepet.jpg" width="300" style="display:block; text-align:center;" />
+            </div>
+            <div class="col-md-4 mb-3">
+
+            </div>
+        </div>
+
+    }
+    else
+    {
+        <table class="table">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.UrunImage)
+
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.UrunName)
+                </th>
+
+
+
+
+
+
+
+                <th>
+                    @Html.DisplayNameFor(model => model.DateTime)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Price)
+                </th>
+                <th></th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @*@Html.DisplayFor(modelItem => item.UrunImage)*@
+                        <img src="/Upload/@item.UrunImage" width="70" />
+                    </td>
+                    <td>
+                        @*@Html.DisplayFor(modelItem => item.UrunName)*@
+                        <a href="/Home/Details/@item.UrunId"> @item.UrunName </a>
+                    </td>
+
+
+
+
+
+
+
+                    <td>
+                        @Html.DisplayFor(modelItem => item.DateTime)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Price) TL
+
+
+                    </td>
+                    <td>
+
+                        @Html.ActionLink("Sepetten Kaldır", "Delete", new { id = item.Id }, new { @class = "btn btn-danger btn-sm" })
+
+                    </td>
+                </tr>
+            }
+
+
+            <tr>
+
+
+
+                <th>
+
+                </th>
+
+
+                <th>
+                </th>
+                <th>
+                    <h5>TOPLAM ÖDENECEK TUTAR :</h5>
+                </th>
+                <th>
+                    <label>@toplam TL</label>
+                </th>
+                <th>
+                    @*@using (Html.BeginForm())
+                        {
+                        @Html.AntiForgeryToken()
+
+                        <div class="form-actions no-color">
+                        <input type="submit" value="Odeme Yap" class="btn btn-default" />
+
+                        </div>
+                        }*@
+
+                    @*@using (Html.BeginForm("Ode", "Cart"))*@
+                    @*{*@
+                    <!--@Html.AntiForgeryToken()-->
+                    @*@Html.TextBox("Text", "Varsayılan-Yazı");*@
+                    <!--<br />
+                    <input type="submit" value="Gönder" />-->
+                    @*}*@
+                    @if (toplam != 0)
+                    {
+                        @*@Html.ActionLink("Ode", "Ode")*@
+                        @*@Html.ActionLink("Ödeme Yap", "Ode", "Cart", null, new { @class = "btn btn-success btn-sm float-right" })*@
+
+                    }
+
+                </th>
+            </tr>
+        </table>
+        <div class="row">
+            <div class="col-md-4 mb-3">
+
+            </div>
+            <div class="col-md-4 mb-3">
+
+            </div>
+            <div class="col-md-4 mb-3">
+                @*<form action="/Cart/Index" method="post">
+                        @Html.AntiForgeryToken()
+                        <label for="phone">Telefon Numaranızı Giriniz:</label>
+                        <input type="text" id="tel" name="lname"><br><br><br>
+
+
+                        <label for="adres">Adresinizi Giriniz:</label><br>
+                        <textarea id="adres" name="w3review" rows="5" cols="60" style="resize: none;"></textarea> <br>
+                        <input type="submit" value="Ödeme Yap" class="btn btn-success btn-sm ">
+                    </form>*@
+
+                <!--using (Html.BeginForm()) şeklinde bırakırsan sayfanın bulunduğu metoda gider veriler-->
+                @using (Html.BeginForm("Index", "Cart", FormMethod.Post))
+                {
+                    @Html.AntiForgeryToken()
+                    if (toplam != 0)
+                    {
+                        <div class="form-horizontal">
+                            <div class="form-group">
+                                <label for="exampleInputEmail1" class="control-label col-md-3">Telefon</label>
+                                <div class="col-md-9">
+                                    <!-- textbox içerisindeki veri ne olsun=null-->
+                                    @*@Html.TextBox("Telefon", null, new { @class = "form-control" })*@
+                                    <input type="text" id="Telefon" name="Telefon" required>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label for="exampleInputEmail1" class="control-label col-md-3">Adres</label>
+                                <div class="col-md-9">
+                                    <!-- textarea içerisindeki veri ne olsun=null-->
+                                    @*@Html.TextArea("Adres", null, new { @class = "form-control" })*@
+                                    <textarea id="Adres" name="Adres" rows="5" cols="40" style="resize: none;" required></textarea>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="col-sm-offset-3 col-sm-9">
+                                    <button type="submit" class="btn btn-success">Ödeme Yap</button>
+                                </div>
+                            </div>
+
+
+                        </div>
+                    }
+
+                }
+
+
+
+
+
+
+
+
+
+
+
+
+
+            </div>
+        </div>
+    }
+
+
+    
+    
+
+    
+
+
+
+
+
+</div>
+

@@ -1,0 +1,120 @@
+﻿@using EticaretMVC.Models;
+@model PagedList.PagedList<ProductModel>
+@using PagedList
+@using PagedList.Mvc
+<!-- ürünler tablosundan liste geldiği için     model IEnumerable<Product>   şeklinde tanımladık
+-->
+
+
+@{
+    ViewBag.Title = "List";
+    string kategoriid;
+    foreach (var item in Model)
+    {
+        // kategoriid= item.CategoryId.ToString();
+        kategoriid = Convert.ToString(item.CategoryId);
+    }
+}
+<br />
+<div class="container pb-5">
+
+    <div class="row">
+
+        <div class="col-md-3">
+
+            <!--Bu bir Partial View . Ama biz bu Partial View'i HomeController'da oluşturduk -->
+            @Html.Action("GetCategories", "Home")<!--metod adı,Controller adı-->
+
+
+        </div>
+        <div class="col-md-9">
+            @if (Model.Count() == 0)
+            {
+                <div class="alert alert-danger" role="alert">
+
+                    <i class="fa fa-exclamation-circle" aria-hidden="true"></i>
+                    Bu kategoride bir ürün bulunamadı.
+                </div>
+            }
+            else
+            {
+                <div class="alert alert-success" role="alert">
+                    <i class="fa fa-check" aria-hidden="true"></i>
+
+                    @ViewBag.urunsayisi adet ürün bulundu.
+                </div>
+
+
+                
+
+                <br />
+            }
+
+
+            <!--Bu da partial view. Ama biz bu Partial View'i sağdaki SolutionExplorer'dan Models klasörüne sağ tıklayarak oluşturduk-->
+            @Html.Partial("_ProductList", Model)
+           
+            @*@if (ViewBag.urunsayisi != 0)
+        {
+            <div class="row">
+                <div class="col-md-4"></div>
+                <div class="col-md-4">
+                    <nav aria-label="Page navigation example">
+                        <ul class="pagination">
+                            @Html.PagedListPager((IPagedList)Model, sayfa => Url.Action("List", new { sayfa }))
+                            <li class="page-item"><a class="page-link" href="#">Previous</a></li>
+                            <li class="page-item"><a class="page-link" href="/Home/List/?id=@ViewBag.kategoriid&sayfalamaid=0">1</a></li>
+                            <li class="page-item"><a class="page-link" href="/Home/List/?id=@ViewBag.kategoriid&sayfalamaid=1">2</a></li>
+                            <li class="page-item"><a class="page-link" href="/Home/List/?id=@ViewBag.kategoriid&sayfalamaid=2">3</a></li>
+                            <li class="page-item"><a class="page-link" href="#">Next</a></li>
+                        </ul>
+                    </nav>
+                </div>
+                <div class="col-md-4"></div>
+            </div>
+        }*@
+
+            @*@Html.PagedListPager(Model, sayfa => Url.Action("List", new { sayfa, pageSize = Model.PageSize }))*@
+
+
+            @*@Html.PagedListPager((IPagedList)Model, sayfa => Url.Action("List", new { sayfa }))*@
+
+            @*@Html.PagedListPager((IPagedList)Model, sayfa => Url.Action("List", new { sayfa }))*@
+
+
+
+        <div class="row">
+            <div class="col-md-4">
+            </div>
+            <div class="col-md-4">
+
+                <ul class="pagination">
+                    @Html.PagedListPager((IPagedList)Model, sayfa => Url.Action("List", new { sayfa }),
+                   new PagedListRenderOptions
+                   {
+                       LinkToPreviousPageFormat = string.Format("Geri"),
+                       LinkToNextPageFormat = string.Format("İleri"),
+                       ClassToApplyToFirstListItemInPager = "page-previous",
+                       ClassToApplyToLastListItemInPager = "page-next",
+                       UlElementClasses = new[] { "pagination" }
+
+
+
+                    })
+
+
+                </ul>
+
+            </div>
+            <div class="col-md-4">
+            </div>
+        </div>
+            
+
+
+
+
+
+        </div>
+        </div>
+</div>

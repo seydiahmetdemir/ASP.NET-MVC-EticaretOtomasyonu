@@ -1,0 +1,75 @@
+﻿@using EticaretMVC.Models;
+@model IEnumerable<ProductModel>
+
+
+<div class="row">
+    @foreach (var urun in Model)
+    {
+        
+        <div class="col-md-4 mb-3">
+
+            <div class="card">
+                <img src="~/Upload/@urun.Image" class="card-img-top" alt="@urun.Name">
+                <div class="card-body">
+                    <h4 class="card-title">
+
+                        <!--ürün adına tıkladığında HomeController altındaki Details metoduna ürünün Id 'si gidecek-->
+                        <a href="/Home/Details/@urun.Id"> @urun.Name </a>
+
+                    </h4>
+                    <p class="card-text pt-2 description">@urun.Description</p>
+                </div>
+                <div class="card-footer">
+                    <small class="text-muted product-price">
+
+                        @urun.Price TL
+                    </small><br />
+                    <a href="/Home/Details/@urun.Id" class="btn btn-primary btn-sm float-right">Ürünü İncele</a>
+
+                    @*<a href="/Cart/SepeteEkle/@urun.Id" class="btn btn-success float-right">Sepete Ekle</a>*@
+                    @if (urun.Stock == 0)
+                    {
+                        <button type="submit" class="btn btn-danger btn-sm ">
+                            <i class="fas fa-exclamation-circle"></i>
+                            Stokta Yok
+                        </button>
+
+                    }
+                    else
+                    {
+                        if (User.Identity.IsAuthenticated == true)
+                        {
+                            using (Html.BeginForm("SepeteEkle", "Cart", FormMethod.Post))
+                            {
+                                @Html.AntiForgeryToken()
+                                @*@Html.ActionLink("Sepete Ekle", "SepeteEkle", new { UrunIdd = urun.Id }, new { @class = "btn btn-success" })*@
+                                @*@Html.ActionLink();*@
+                                <input type="hidden" id="UrunIdd" name="UrunIdd" value="@urun.Id" required>
+                                <button type="submit" class="btn btn-success btn-sm ">
+                                    <i class="fa fa-cart-plus" aria-hidden="true"></i>
+                                    Sepete Ekle
+                                </button>
+                            }
+                        }
+                        else
+                        {
+                            <a href="/Account/Login" class="btn btn-success btn-sm ">
+                                <i class="fa fa-cart-plus" aria-hidden="true"></i>
+                                Sepete Ekle
+                            </a>
+                        }
+
+
+                    }
+
+
+
+                </div>
+            </div>
+
+        </div>
+    }
+
+</div>
+
+

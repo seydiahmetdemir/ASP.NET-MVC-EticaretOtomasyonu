@@ -1,0 +1,33 @@
+﻿@using EticaretMVC.Models;
+@model IEnumerable<ProductModel>
+<!-- ürünler tablosundan liste geldiği için     model IEnumerable<Product>   şeklinde tanımladık
+-->
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<!--büyük resim ve üstünde yazı-->
+<div class="jumbotron">
+    <div class="container">
+        <div style="padding: 30px 0px 30px 0px;" class="container">
+            <h1 class="display-4">E-Ticaret MVC</h1>
+            <p class="lead">Seydi Ahmet Demir - 191103034</p>
+            <hr class="my-4">
+            
+            <a class="btn btn-primary btn-lg" href="/Home/List" role="button">Alışverişe Başla</a>
+        </div>
+    </div>
+</div>
+
+
+
+
+<!--kartlar-->
+<div class="container pb-5">
+     <!--(partial view ismi,bu sayfadan partiala veri gönderiyoruz)-->
+    @Html.Partial("_ProductList", Model)
+    
+</div>
+
+

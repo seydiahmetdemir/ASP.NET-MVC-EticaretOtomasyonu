@@ -1,0 +1,50 @@
+﻿@model IEnumerable<EticaretMVC.Entity.Category>
+@{ 
+    //url'ki  id değerini alır
+    //var selectedCategory = Url.RequestContext.RouteData.Values["id"];
+    
+}
+@{
+
+
+
+}
+<div class="list-group ">
+
+    <a href="/Home/List" class="list-group-item list-group-item-action">
+        <i class="fa fa-angle-double-right" aria-hidden="true"></i> <!--emoji-->
+        Tüm Kategoriler
+        
+    </a>
+
+    
+    <!-- kategori bölümünde seçili kategoriyi renkli göstermeye yarıyor-->
+    @foreach (var item in Model)
+    {
+        if (ViewBag.secilikatagori != null)
+        {
+            if (item.Id == int.Parse(ViewBag.secilikatagori.ToString())) 
+            {                                                                           <!--active yazdık yani renkli gözükecek-->
+                <a href="/Home/List/@item.Id" class="list-group-item list-group-item-action active">
+                    <i class="fa fa-angle-double-right" aria-hidden="true"></i> <!--emoji-->
+                    @item.Name
+                </a>
+            }
+            else
+            {
+                <a href="/Home/List/@item.Id" class="list-group-item list-group-item-action">
+                    <i class="fa fa-angle-double-right" aria-hidden="true"></i> <!--emoji-->
+                    @item.Name
+                </a>
+            }
+        }
+        else
+        {
+            <a href="/Home/List/@item.Id" class="list-group-item list-group-item-action">
+                <i class="fa fa-angle-double-right" aria-hidden="true"></i> <!--emoji-->
+                @item.Name
+            </a>
+        }
+
+    }
+</div>
